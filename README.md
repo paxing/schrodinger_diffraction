@@ -16,5 +16,5 @@ Numerical solution to the time-dependant Schrodinger equation for electron diffr
 ![alt text](https://github.com/paxing/schrodinger_diffraction/blob/main/figures/animation_2fentes.gif?raw=true)
 
 
-![alt text](https://github.com/paxing/schrodinger_diffraction/blob/main/figures/animation_2fentes.gif?raw=true)
+![alt text](https://github.com/paxing/schrodinger_diffraction/blob/main/figures/animation_4fentes.gif?raw=true)
 
