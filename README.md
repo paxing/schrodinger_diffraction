@@ -1,6 +1,7 @@
 # schrodinger_diffraction
 
-Class project for PHS3903. Projet de simulation at Polytechnique Montreal.
+Class project for PHS3903: Projet de simulation at Polytechnique Montreal.
+
 Winter 2019
 
 Numerical solution to the time-dependant Schrodinger equation for electron diffraction.
